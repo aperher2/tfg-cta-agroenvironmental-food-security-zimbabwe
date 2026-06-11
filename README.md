@@ -91,6 +91,6 @@ Scripts:
 
 ## Author
 
-Álvaro Pérez
+Álvaro Pérez Hernando
 
 Bachelor's Thesis (CTA)
