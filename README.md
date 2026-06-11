@@ -45,7 +45,7 @@ R/
     modelization_CTA.R
 
 data/
-    final_dataset.csv
+    df_completed.csv
 ```
 
 ## Workflow
@@ -87,7 +87,7 @@ Scripts:
 * R
 * Google Earth Engine
 * Power Query
-* QGIS
+* QGIS & GDAL 
 
 ## Author
 
